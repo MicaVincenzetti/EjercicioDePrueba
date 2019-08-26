@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566831383 source:d:\vincenzetti\ejerciciodeprueba\ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+
